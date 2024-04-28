@@ -23,7 +23,7 @@ spec:
   outbound:
     serviceReferences:
     - name: choreo:///thiwankashan/appointment-management/pdezyv/8b1c3/v1.0/ORGANIZATION
-      connectionConfig: 01ef0514-b079-1508-a0ff-8383e0d68f10
+      connectionConfig: 01ef0515-d5ba-18e8-85c6-543afbda080f
       env:
       - from: ServiceURL
         to: APPOINTMENT_SERVICE_URL
